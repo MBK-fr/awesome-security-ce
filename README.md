@@ -1,4 +1,4 @@
-# [![Awesome Community Editions of Enterprise Security Products](/logos/awesome-security-ce.png)](https://github.com/BadSamuraiDev/awesome-security-ce)
+# Awesome Community Editions of Enterprise Security Products
 
 [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
